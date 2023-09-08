@@ -12,9 +12,7 @@ Chúng tôi không yêu cầu người dùng cung cấp bất kỳ thông tin c�
 
 3. Liên hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc phản ánh nào về chính sách quyền riêng tư của chúng tôi, xin vui lòng liên hệ:
-
-[Địa chỉ Email hoặc Liên hệ khác]
+Nếu bạn có bất kỳ câu hỏi hoặc phản ánh nào về chính sách quyền riêng tư của chúng tôi, xin vui lòng liên hệ nhà phát hành.
 
 4. Thay đổi chính sách
 
