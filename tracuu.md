@@ -1,6 +1,6 @@
-Chính sách Quyền riêng tư cho Ứng dụng Di động [Tên ứng dụng]
+Chính sách Quyền riêng tư cho Ứng dụng Di động
 
-Cập nhật lần cuối: [Ngày cập nhật gần nhất]
+Cập nhật lần cuối: 2023-09-08
 
 1. Không thu thập Thông tin Cá nhân
 
